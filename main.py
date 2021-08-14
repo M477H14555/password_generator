@@ -64,3 +64,4 @@ for x in range(len_password):
     #print("--"*20)
 password = "".join(list_rndm_pass)
 print(f"Your password: {password}")
+# DONE
