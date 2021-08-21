@@ -24,7 +24,7 @@ This is a password generator. It took me 2 days t make with my slow smoothbrain 
 ➞ Then, you get your password!!!
 
   ### NEW VERSION
-  HOLY HELL THIS EW VERSION TOOK SO LONG TO MAKE BUT I DID IT LESS GOOOOO YOU CAN ADD MINIMUM SYMBOLS AND MINIMUM DIGITS!!
+  HOLY HELL THIS NEW VERSION TOOK SO LONG TO MAKE BUT I DID IT LESS GOOOOO YOU CAN ADD MINIMUM SYMBOLS AND MINIMUM DIGITS!!
 
 ---
 Professionally made by a professional idiot  🧊
